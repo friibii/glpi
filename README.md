@@ -15,5 +15,6 @@ In laufende Docker-Umgebung integrieren mit:
 - erstellen eines Ordners und verschieben des yaml-files
 - wechseln in den Ordner
 - docker compose run
+
    resp. um ihn als Service zu straten:
 - docker compose run -d
