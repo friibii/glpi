@@ -7,6 +7,8 @@ Docker-Compose File mit folgenden Services:
 
 Erreichbar über
 - http://[IP-Adresse]:30080
+- user: glpi
+- password: glpi
 
 In laufende Docker-Umgebung integrieren mit:
 - download yaml-file
