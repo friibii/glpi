@@ -16,5 +16,5 @@ In laufende Docker-Umgebung integrieren mit:
 - wechseln in den Ordner
 - docker compose run
 
-   resp. um ihn als Service zu straten:
+   resp. um ihn als Service zu starten:
 - docker compose run -d
